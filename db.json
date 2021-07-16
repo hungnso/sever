@@ -1,0 +1,53 @@
+{
+  "tour": [
+    {
+      "id": 1,
+      "image": "./images/p-1.jpg",
+      "title": "Athens, Greece",
+      "desc": "Athens, Greece 2",
+      "price": 90
+    },
+    {
+      "image": "./images/p-2.jpg",
+      "title": "Family Tour in Thailand",
+      "desc": "Athen,Greece",
+      "price": "90",
+      "id": 2
+    },
+    {
+      "image": "./images/p-3.jpg",
+      "title": "Family Tour in Philippines",
+      "desc": "Lipa, Philippines",
+      "price": "90",
+      "id": 3
+    },
+    {
+      "image": "./images/p-4.jpg",
+      "title": "Family Tour in Greece",
+      "desc": "Athens, Greece",
+      "price": "90",
+      "id": 4
+    },
+    {
+      "image": "./images/p-5.jpg",
+      "title": "Family Tour in Tokyo",
+      "desc": "Athens, Greece",
+      "price": "90",
+      "id": 5
+    },
+    {
+      "image": "./images/p-6.jpg",
+      "title": "Family Tour in Egypt",
+      "desc": "Athens, Greece",
+      "price": "90",
+      "id": 6
+    }
+  ],
+  "login" : [
+    {
+      "id":1,
+      "userName": "hungnso",
+      "passWords": "kenhbo123"
+    }
+  ]
+}
