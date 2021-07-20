@@ -46,7 +46,7 @@
   "login" :
     {
       "id":1,
-      "userName": "hungnso@gmail.com",
+      "email": "hungnso@gmail.com",
       "passWord": "12345678"
     },
   "reviews": [
