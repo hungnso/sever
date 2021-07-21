@@ -3,42 +3,42 @@
     {
       "id": 1,
       "image": "./images/p-1.jpg",
-      "title": "Athens, Greece",
-      "desc": "Athens, Greece 2",
+      "title": "Family Tour in VietNam",
+      "desc": "VietNamese",
       "price": 90
     },
     {
-      "image": "./images/p-2.jpg",
-      "title": "Family Tour in Thailand",
-      "desc": "Athen,Greece",
+      "image": "./images/p-2.jpeg",
+      "title": "Family Tour in Singapore",
+      "desc": "Singapore",
       "price": "90",
       "id": 2
     },
     {
-      "image": "./images/p-3.jpg",
-      "title": "Family Tour in Philippines",
-      "desc": "Lipa, Philippines",
+      "image": "./images/p-3.jpeg",
+      "title": "Family Tour in China",
+      "desc": "China",
       "price": "90",
       "id": 3
     },
     {
-      "image": "./images/p-4.jpg",
-      "title": "Family Tour in Greece",
-      "desc": "Athens, Greece",
+      "image": "./images/p-4.jpeg",
+      "title": "Family Tour in Japan",
+      "desc": "Japan",
       "price": "90",
       "id": 4
     },
     {
-      "image": "./images/p-5.jpg",
-      "title": "Family Tour in Tokyo",
-      "desc": "Athens, Greece",
+      "image": "./images/p-5.jpeg",
+      "title": "Family Tour in Korea",
+      "desc": "Korea",
       "price": "90",
       "id": 5
     },
     {
-      "image": "./images/p-6.jpg",
-      "title": "Family Tour in Egypt",
-      "desc": "Athens, Greece",
+      "image": "./images/p-6.jpeg",
+      "title": "Family Tour in Indian",
+      "desc": "Indian",
       "price": "90",
       "id": 6
     }
